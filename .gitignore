@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+agentbeck.db
+agentbeck.db-wal
+agentbeck.db-shm
+.env
+harvest/.env
+harvest_runs.jsonl
+harvest/runs/
+
+# Operator-private observability (never published)
+private_observability.py
